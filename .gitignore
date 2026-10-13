@@ -167,3 +167,6 @@ test_*.py
 !test_tools.py
 .workbuddy/
 memory/
+
+# 忽略各种文件夹下codex config.py
+code/config.py
